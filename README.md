@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>CompTIA Studies and Notes</title>
+    CompTIA Studies and Notes
   </head>
   <body>
     <h1>CompTIA Studies and Notes</h1>
