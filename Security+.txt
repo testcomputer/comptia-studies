@@ -1,3 +1,5 @@
+Attacks, Threats, & Vulnerablities
+
 What is Social Engineering?
 
 Social engineering in computer security refers to the manipulation of individuals or groups to deceive them 
@@ -19,4 +21,6 @@ Shoulder Surfing
 Impersonation
 
 Dumpster Diving
+
+Pharming
 
