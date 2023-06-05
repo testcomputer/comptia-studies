@@ -4,3 +4,19 @@ Social engineering in computer security refers to the manipulation of individual
 into disclosing sensitive information, performing certain actions, or granting unauthorized access to computer 
 systems or networks
 
+Phishing
+
+Spear Phishing
+
+Pretexting
+
+Baiting
+
+Tailgating
+
+Shoulder Surfing
+
+Impersonation
+
+Dumpster Diving
+
