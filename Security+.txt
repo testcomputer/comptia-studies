@@ -1,0 +1,6 @@
+What is Social Engineering?
+
+Social engineering in computer security refers to the manipulation of individuals or groups to deceive them 
+into disclosing sensitive information, performing certain actions, or granting unauthorized access to computer 
+systems or networks
+
